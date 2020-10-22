@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,YAEI,iBAAkB,CAClB,UAAU,CACV,iBAAe,CACf,iBAAkB,CAClB,OAAQ","file":"15.65ac3487.chunk.css","sourcesContent":["#moments {\r\n  h1 {\r\n    position: absolute;\r\n    width:100%;\r\n    font-size: 40px;\r\n    text-align: center;\r\n    top: 40%;\r\n  }\r\n}\r\n"]}
